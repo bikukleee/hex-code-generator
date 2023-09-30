@@ -6,8 +6,27 @@ body {
     align-items: center;
     justify-content: center;
     transition: background-color 0.5s ease-in-out;
+    font-family: 'Caveat', cursive;
+}
+
+button{
+    height: 4em;
+    width: 100%;
+    padding: 1.5em auto;
+    margin: 1em auto;
+    background-color: #060505;
+    border: none;
+    border-radius: 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+}
+
+#dasaklikigilakidzma{
+    color: white;
 }
 
 #aqanedawerehexi{
-    color: aliceblue;
+    padding: 30px;
+    font-size: 25px;
+
 }
